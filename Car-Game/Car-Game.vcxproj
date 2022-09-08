@@ -130,6 +130,8 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="console.cpp" />
     <ClCompile Include="border.cpp" />
+    <ClCompile Include="enemy.cpp" />
+    <ClCompile Include="player.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="includ.h" />
