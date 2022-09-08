@@ -19,6 +19,6 @@ car game in cpp from AngularsCoding but im separated and fix code from them.
 
 dowload [Visual Studio](https://visualstudio.microsoft.com/vs/) or similar program
 
-open using program and run 
+open Car-Game.slh using program and run 
 
 that's it enjoy
