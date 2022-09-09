@@ -7,7 +7,7 @@
  - [Official project from AngularsCoding](https://github.com/AngularsCoding/Car-Game)
  - [Author](https://github.com/DBOYttt)
 
-car game in cpp from AngularsCoding but im separated and fix code from them.
+car game in cpp from AngularsCoding but separated and fix code from them.
 
 
 ## Demo
